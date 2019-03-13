@@ -88,17 +88,6 @@ void MaineMenu() {
         cin >> initialUserInput;
     }
 
-
-//    do {
-//        cout << "Great! Lets do it... " << endl;
-//        cout << "How many guests are participating in your meal?" << endl;
-//        cin >> numberOfGuests;
-//
-//        int guestArray[numberOfGuests];
-//
-//
-//    } while (initialUserInput = 1);
-
 }
 
 
